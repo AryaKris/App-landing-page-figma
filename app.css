@@ -1,0 +1,20 @@
+/* * is a universal selector. This styling gets applied to all the elements in the file.  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    width: 100vw;
+    height: 100vh;
+    background: #FFFFFF;
+}
+
+.content-title {
+    Font: "Inter";
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+
+}
